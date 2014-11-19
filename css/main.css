@@ -44,6 +44,9 @@ h1, p {
 
 .ryu {
 	float: left;
+	clear: both;
+	position: relative;
+	top: -50px;
 }
 .ryu-ready, .ryu-still, .ryu-throwing {
 	width: 659px;
